@@ -1,0 +1,25 @@
+{
+  "name": "vuepress-unexpand",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:build --debug": "vuepress build docs --debug"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludanxer/vuepress-unexpand.git"
+  },
+  "author": "ludanxer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludanxer/vuepress-unexpand/issues"
+  },
+  "homepage": "https://github.com/ludanxer/vuepress-unexpand#readme",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}

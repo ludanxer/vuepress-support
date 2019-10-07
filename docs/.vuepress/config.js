@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Unexpendable',
+  title: 'Unexpandable',
   themeConfig: {
     nav: [
         {text: 'Home', link: '/'},
@@ -15,7 +15,7 @@ module.exports = {
            ]
          },
          {
-           title: 'Unexpendable',
+           title: 'Unexpandable',
            children: [
             'bug'
            ]

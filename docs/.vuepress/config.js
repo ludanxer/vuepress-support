@@ -12,6 +12,7 @@ module.exports = {
     nav: [
         {text: 'Home', link: '/'},
         {text: 'Demo', link: '/demo/'},
+        {text: 'About', link: '/about/'},
         {text: 'Github', link: 'https://github.com/ludanxer/vuepress-support'}
     ],
     sidebar: {
@@ -20,12 +21,6 @@ module.exports = {
            title: 'Demo',
            children: [
              ''
-           ]
-         },
-         {
-           title: 'Unexpandable',
-           children: [
-            'bug'
            ]
          }
        ]

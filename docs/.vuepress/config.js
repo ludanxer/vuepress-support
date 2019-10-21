@@ -1,5 +1,6 @@
 module.exports = {
   title: 'Vuepress-Support',
+  base: process.env.VUEPRESS_BASE || '/',
   plugins: [
     [
       '@vuepress/google-analytics',

@@ -4,7 +4,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs --temp .temp",
     "docs:build": "vuepress build docs",
-    "build": "docs:build && mv docs/.vuepress/dist public",
+    "build": "vuepress build docs && mv docs/.vuepress/dist public",
     "docs:build-pages": "VUEPRESS_BASE=/vuepress-support/ vuepress build docs"
   },
   "directories": {

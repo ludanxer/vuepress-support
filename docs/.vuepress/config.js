@@ -24,7 +24,8 @@ module.exports = {
           title: 'Guide',
           collapsable: false,
           children: [
-            ['', 'title']
+            ['', 'depth1'],
+            ['test', 'depth2']
           ]
         }
       ],

@@ -1,13 +1,12 @@
 # Vuepress-Support
 
-This repo is meant to quickly create a Vuepress demo and reproduce some bugs.
+This repo is meant to quickly reproduce some bugs for VuePress.
+
+Repo on the other branch is created by [create-vuepress-tmp](https://github.com/ludanxer/create-vuepress-tmp).
 
 ## Bug
 
-Repo to reproduce bugs is now migrate to single brunches to keep things minimal
-
-1. Can't expand menu in the sidebar when build with `--debug`: [Unexpand Brunch](https://vuepress-support-unexpand.ludanxer.now.sh/)
-2. Double back button with relative path: [Double Back Brunch](https://vuepress-support-double-back.ludanxer.now.sh/)
+Check out other branches.
 
 ## License
 
